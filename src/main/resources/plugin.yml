@@ -1,0 +1,8 @@
+name: OpTools
+description: $description
+version: '${version}'
+
+main: fr.Aximoxx.opTools.Main
+api-version: '1.21'
+
+authors: [ Aximox ]
