@@ -12,13 +12,31 @@
 
 ## Présentation
 
-**OpTools** ajoute des outils spéciaux capables de choses impossibles en vanilla (pour l'instant seulement une Pioche capable de casser en **3x3** a été implémentée).  
+**OpTools** ajoute des outils spéciaux capables de choses impossibles en vanilla.  
 
-**Informations Utiles**
+## Information Utiles
 
-La Pioche reste entièrement **vanilla** ! Vous pouvez donc la _fusionnée_ ou _l'enchantée_ sans qu'elle perde son pouvoir.
+Tous les items restent **VANILLA**. Vous pouvez donc les fusionner avec vos outils **déjà éxistant** sans qu'ils perdent leurs pouvoirs.<br>
+Vous pouvez aussi les améliorées en **Netherite** !
+
+## Items disponibles
+- Pioche:<br>
+La Pioche permet de casser en **3x3** !<br>L'xp n'est malheureusement pas drop dû à un bug.
+
+
+- Hâche<br>
+La Hâche permet de casser **intégralement** un arbre.<br>Les feuilles, elles, sont épargnées.
+
+
+- Houe<br>
+La Houe permet de replanté vos plantation dans un rayon de **3x3** !<br>Mais **ATTENTION**, les graines doivent être dans votre inventaire !
 
 **Liste des crafts:**
-- La pioche:
-
+- La Pioche:<br>
 ![Craft de la Pioche](assets/pickaxe_craft.png)
+
+- La Hâche:<br>
+![Craft de la Hâche](assets/axe_craft.png)
+
+- La Houe:<br>
+![Craft de la Houe](assets/hoe_craft.png)

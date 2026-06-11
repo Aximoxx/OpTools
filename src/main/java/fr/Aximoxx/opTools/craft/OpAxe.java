@@ -1,4 +1,4 @@
-package fr.Aximoxx.opTools.customcraft;
+package fr.Aximoxx.opTools.craft;
 
 import fr.Aximoxx.opTools.Main;
 import org.bukkit.Bukkit;
@@ -10,19 +10,19 @@ import org.bukkit.inventory.meta.ItemMeta;
 
 import java.util.List;
 
-public class OpPickaxe {
+public class OpAxe {
 
-    public void OpPickaxe(){
-        ItemStack result = new ItemStack(Material.DIAMOND_PICKAXE);
+    public void opAxe(){
+        ItemStack result = new ItemStack(Material.DIAMOND_AXE);
         ItemMeta meta = result.getItemMeta();
-        if (meta != null) meta.setLore(List.of("§7Cette pioche casse en 3x3."));
+        if (meta != null) meta.setLore(List.of("§7Cette hâche peut casser un arbre entier."));
         result.setItemMeta(meta);
 
-        ShapedRecipe craft = new ShapedRecipe(new NamespacedKey(Main.getInstance(), "opPickaxe"), result);
+        ShapedRecipe craft = new ShapedRecipe(new NamespacedKey(Main.getInstance(), "opAxe"), result);
 
         craft.shape(
-                "NDN",
-                "DSD",
+                "ND ",
+                "DS ",
                 " S ");
 
         craft.setIngredient('D', Material.DIAMOND_BLOCK);
