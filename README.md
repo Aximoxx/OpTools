@@ -2,7 +2,7 @@
 
 # OpTools
 
-**Un plugin Spigot qui ajoute une pioche 3x3 pour rendre le minage plus rapide et plus agréable.**
+**Un plugin Spigot qui ajoute des items au pouvoir qui rendent le jeu agréable.**
 
 ![Spigot](https://img.shields.io/badge/Spigot-1.21.11-orange?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-21-blue?style=for-the-badge)
