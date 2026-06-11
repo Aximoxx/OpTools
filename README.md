@@ -4,8 +4,8 @@
 
 **Un plugin Spigot qui ajoute une pioche 3x3 pour rendre le minage plus rapide et plus agréable.**
 
-![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge)
-![Spigot](https://img.shields.io/badge/Spigot-1.21-yellow?style=for-the-badge)
+![Spigot](https://img.shields.io/badge/Spigot-1.21.11-orange?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-21-blue?style=for-the-badge)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Plugin-green?style=for-the-badge)
 
 </div>
