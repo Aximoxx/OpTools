@@ -16,7 +16,7 @@ public class AxeBreak implements Listener {
         ItemStack item = p.getInventory().getItemInMainHand();
         Block block = e.getBlock();
 
-        if (!item.hasItemMeta()) return;
+        if (!item.hasItemMeta() || !item.getItemMeta().hasLore()) return;
         if (!item.getItemMeta().getLore().contains("§7Cette hâche peut casser un arbre entier.")) return;
         if (p.isSneaking()) return;
 

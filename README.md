@@ -24,8 +24,8 @@ Vous pouvez aussi les améliorées en **Netherite** !
 La Pioche permet de casser en **3x3** !<br>L'xp n'est malheureusement pas drop dû à un bug.
 
 
-- Hâche<br>
-La Hâche permet de casser **intégralement** un arbre.<br>Les feuilles, elles, sont épargnées.
+- Hache<br>
+La Hache permet de casser **intégralement** un arbre.<br>Les feuilles, elles, sont épargnées.
 
 
 - Houe<br>
@@ -35,8 +35,8 @@ La Houe permet de replanté vos plantation dans un rayon de **3x3** !<br>Mais **
 - La Pioche:<br>
 ![Craft de la Pioche](assets/pickaxe_craft.png)
 
-- La Hâche:<br>
-![Craft de la Hâche](assets/axe_craft.png)
+- La Hache:<br>
+![Craft de la Hache](assets/axe_craft.png)
 
 - La Houe:<br>
 ![Craft de la Houe](assets/hoe_craft.png)

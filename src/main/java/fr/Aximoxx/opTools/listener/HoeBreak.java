@@ -16,7 +16,7 @@ public class HoeBreak implements Listener {
         ItemStack item = p.getInventory().getItemInMainHand();
         Block block = e.getBlock();
 
-        if (!item.hasItemMeta()) return;
+        if (!item.hasItemMeta() || !item.getItemMeta().hasLore()) return;
         if (!item.getItemMeta().getLore().contains("§7Cette Houe casse et replante les plantations dans un rayon de 3x3.")) return;
         if (p.isSneaking()) return;
 

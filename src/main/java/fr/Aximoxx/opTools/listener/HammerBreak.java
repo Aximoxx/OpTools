@@ -16,7 +16,7 @@ public class HammerBreak implements Listener {
         ItemStack item = p.getInventory().getItemInMainHand();
         Block block = e.getBlock();
 
-        if (!item.hasItemMeta()) return;
+        if (!item.hasItemMeta() || !item.getItemMeta().hasLore()) return;
         if (!item.getItemMeta().getLore().contains("§7Cette pioche casse en 3x3.")) return;
         if (p.isSneaking()) return;
 
