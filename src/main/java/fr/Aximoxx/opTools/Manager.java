@@ -17,9 +17,9 @@ public class Manager {
 
         BlockFace face;
 
-        if (pitch <= -60) {
+        if (pitch <= -40) {
             face = BlockFace.UP;
-        } else if (pitch >= 60) {
+        } else if (pitch >= 40) {
             face = BlockFace.DOWN;
         } else face = p.getFacing();
 
